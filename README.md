@@ -1,4 +1,5 @@
 # Morphological-Analyzer-for-Sanskrit
+
 BY- PRASHAM ASHESH
     AYUSH TRIVEDI
     MANU DANDOTIYA
