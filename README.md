@@ -1,8 +1,8 @@
 # Morphological-Analyzer-for-Sanskrit
-
-BY- PRASHAM ASHESH
-    AYUSH TRIVEDI
-    MANU DANDOTIYA
+### Authors and Contributors
+PRASHAM ASHESH
+AYUSH TRIVEDI
+MANU DANDOTIYA
 
 Special thanks to our mentor- Mrs.Ambalika Sarkar
 
@@ -25,17 +25,17 @@ parser1 has 13 .java files of which Verb.java holds the parent class Verb which 
 sub classes.Structure is as follows:-
 Verb-
     VPast
-      VPaFirstPerson
-      VPaSecondPerson
-      VPaThirdPerson
+        VPaFirstPerson
+        VPaSecondPerson
+        VPaThirdPerson
     VPresent
-      VPrFirstPerson
-      VPrSecondPerson
-      VPrThirdPerson
+        VPrFirstPerson
+        VPrSecondPerson
+        VPrThirdPerson
     VFuture
-      VFuFirstPerson
-      VFuSecondPerson
-      VFuThirdPerson
+        VFuFirstPerson
+        VFuSecondPerson
+        VFuThirdPerson
 
 I was not able to implement Top Down Recursive Parser for Nouns because midway through the project I realized that
 implementing Sanskrit Morphological Structure using a Finite Automata was much more efficient than Top Down Recursive Parser.
@@ -47,7 +47,7 @@ pull of functions like PadParichay,Word PadParichay, and Grammer Checking tool.S
 SanskritParser1-
     NounDFA1
       Nstate0
-        NMFState0
+      	NMFState0
           NMFState1
           NMFState2
           NMFState3
