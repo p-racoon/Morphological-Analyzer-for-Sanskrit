@@ -13,7 +13,7 @@ https://github.com/imayu/sanskrit-compiler-website
 ###About the project:-  
 This was my minor project for 3rd Year, this repository holds three java packages namely performanceCheck, parser1 and parser2.
 
-`Project Report.pdf` and `Project Synopsis.pdf` could come in handy and will help you further to understand this project.
+Documentation in the folder `Project Report` could come in handy and will help you further to understand this project.
 Even with my best efforts, bugs might have crept in, it will be great help if you could help me to find any.
  
 NOTE:the example used by me in this program `पठः पन् कथ` is syntactically correct but its senseless, this is what 
